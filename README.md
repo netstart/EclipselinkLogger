@@ -9,7 +9,7 @@ Realiza gravação do Log seguindo as configurações do log4j.xml
 
 persistence.xml
 	Incluia:
-		<property name="eclipselink.logging.logger" value="org.eclipse.persistence.logging.CommonsLoggingSessionLog"/>
+	<property name="eclipselink.logging.logger" value="org.eclipse.persistence.logging.CommonsLoggingSessionLog"/>
 		
 		
 log4.xml
